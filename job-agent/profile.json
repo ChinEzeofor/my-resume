@@ -1,22 +1,35 @@
 {
   "name": "Chinedu Ezeofor",
-  "headline": "Aspiring IT support / help-desk technician moving into tech",
-  "contact_email": "chinezeofor@gmail.com",
+  "headline": "IT Support Specialist / Google Workspace Admin — working toward CompTIA A+, Network+, Security+",
+  "contact_email": "chin@chineduezeofor.com",
 
-  "skills": ["HTML", "customer service", "training", "troubleshooting", "communication"],
-  "keywords": ["remote", "help desk", "it support", "customer support", "entry level", "no degree", "part-time"],
-  "target_titles": ["IT Support Technician", "Help Desk Technician", "Technical Support Specialist", "Customer Support Associate"],
+  "skills": [
+    "IT support", "technical support", "help desk", "troubleshooting",
+    "Google Workspace administration", "Google Workspace", "DNS", "SPF", "DKIM",
+    "email security", "user management", "organizational unit management",
+    "networking", "hardware troubleshooting", "software troubleshooting",
+    "data management", "security and compliance", "user training", "customer service"
+  ],
+  "keywords": [
+    "remote", "it support", "help desk", "technical support", "desktop support",
+    "google workspace", "workspace admin", "dns", "tier 2", "service desk"
+  ],
+  "target_titles": [
+    "IT Support Specialist", "IT Support Technician", "Help Desk Technician",
+    "Technical Support Specialist", "Google Workspace Administrator",
+    "Desktop Support Technician", "Service Desk Analyst"
+  ],
 
-  "years_experience": 0,
+  "years_experience": 3,
   "has_degree": false,
-  "certifications": [],
+  "certifications": ["Google IT Support Professional Certificate"],
 
   "remote_only": true,
   "part_time_ok": true,
-  "min_pay_hourly": 17,
-  "locations_ok": ["Remote", "US", "Anywhere", "United States"],
+  "min_pay_hourly": 22,
+  "locations_ok": ["Remote", "US", "Anywhere", "United States", "New York"],
 
-  "experience_summary": "At McDonald's I started as a crew member and was promoted to team trainer, where I trained new crew members on kitchen procedures. That taught me to explain steps clearly, stay calm under pressure, and help people solve problems quickly — the same skills a help-desk role needs. I'm also learning web development (HTML) on my own.",
+  "experience_summary": "I'm an IT Support Specialist with hands-on experience administering Google Workspace at Digital Discovery Network — authenticating domains and configuring DNS (CNAME, A, TXT, name servers), implementing SPF and DKIM email policies, managing users and organizational units, and handling data retention, backup, and access controls. Through the Google x Multiverse apprenticeship I provided IT support at Google, troubleshooting hardware and software, configuring and maintaining systems and networks, and helping users with productivity tools. Earlier, at the NYC Law Department, I provided clerical and administrative support to legal staff, which built strong communication and organizational skills. I completed the Google IT Support Professional Certificate and am working toward CompTIA A+, Network+, and Security+.",
 
-  "_notes": "Edit this file to reflect your real skills, certs, and experience. Everything the drafter writes comes from here — keep it accurate. Adding a CompTIA A+ cert here (once earned) will meaningfully raise your ranking on IT-support roles."
+  "_notes": "Source: Resume_2023_Revise.docx (dated 2023). REVIEW/UPDATE: (1) years_experience is estimated at 3 — bump it if your 2022-present roles are still ongoing in 2026. (2) certifications lists only EARNED credentials; the drafter claims these as held, so add CompTIA A+/Network+/Security+ ONLY once passed. (3) confirm which email to use on applications (resume shows chin@chineduezeofor.com; account is chinezeofor@gmail.com)."
 }
