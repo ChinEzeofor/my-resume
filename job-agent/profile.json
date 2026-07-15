@@ -1,0 +1,22 @@
+{
+  "name": "Chinedu Ezeofor",
+  "headline": "Aspiring IT support / help-desk technician moving into tech",
+  "contact_email": "chinezeofor@gmail.com",
+
+  "skills": ["HTML", "customer service", "training", "troubleshooting", "communication"],
+  "keywords": ["remote", "help desk", "it support", "customer support", "entry level", "no degree", "part-time"],
+  "target_titles": ["IT Support Technician", "Help Desk Technician", "Technical Support Specialist", "Customer Support Associate"],
+
+  "years_experience": 0,
+  "has_degree": false,
+  "certifications": [],
+
+  "remote_only": true,
+  "part_time_ok": true,
+  "min_pay_hourly": 17,
+  "locations_ok": ["Remote", "US", "Anywhere", "United States"],
+
+  "experience_summary": "At McDonald's I started as a crew member and was promoted to team trainer, where I trained new crew members on kitchen procedures. That taught me to explain steps clearly, stay calm under pressure, and help people solve problems quickly — the same skills a help-desk role needs. I'm also learning web development (HTML) on my own.",
+
+  "_notes": "Edit this file to reflect your real skills, certs, and experience. Everything the drafter writes comes from here — keep it accurate. Adding a CompTIA A+ cert here (once earned) will meaningfully raise your ranking on IT-support roles."
+}

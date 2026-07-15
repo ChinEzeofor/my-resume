@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sample-1",
+    "title": "IT Support Technician (Part-Time, Remote)",
+    "company": "Careers Connection",
+    "url": "https://careers-connection.icims.com/jobs/10546/it-support-technician-%28part-time%2c-remote%29/job",
+    "location": "Remote (US)",
+    "salary": "$20 - $26 an hour",
+    "tags": ["it support", "help desk", "part-time", "remote"],
+    "posted_at": "2026-07-10",
+    "description": "Part-time remote IT Support Technician. Provide tier 1 support via phone, email and chat. Troubleshoot hardware, software and basic network issues. High school diploma required; CompTIA A+ or equivalent experience a plus. Entry-level candidates with strong customer-service skills encouraged to apply. Will train."
+  },
+  {
+    "id": "sample-2",
+    "title": "Remote Help Desk Technician - Tier 1 (No Experience)",
+    "company": "BrightPath MSP",
+    "url": "https://example.com/jobs/brightpath-tier1",
+    "location": "Remote (US)",
+    "salary": "$19 - $23 an hour",
+    "tags": ["help desk", "tier 1", "entry level", "will train"],
+    "posted_at": "2026-07-12",
+    "description": "Entry-level tier 1 help desk role. No prior experience required, training provided. Answer support tickets, reset passwords, guide customers through basic troubleshooting. High school diploma. Great customer-service attitude valued over credentials."
+  },
+  {
+    "id": "sample-3",
+    "title": "Remote Customer Support Associate",
+    "company": "Nimbus Software",
+    "url": "https://example.com/jobs/nimbus-support",
+    "location": "Remote (Anywhere)",
+    "salary": "$18 - $22 an hour",
+    "tags": ["customer support", "entry level", "remote"],
+    "posted_at": "2026-07-11",
+    "description": "Help customers over chat and email. No degree required. We train you on our product. Ideal for someone with retail or food-service customer experience looking to move into tech. Strong communication a must."
+  },
+  {
+    "id": "sample-4",
+    "title": "Senior Systems Administrator",
+    "company": "DataForge",
+    "url": "https://example.com/jobs/dataforge-sysadmin",
+    "location": "Remote (US)",
+    "salary": "$110,000 - $140,000 a year",
+    "tags": ["sysadmin", "linux", "senior"],
+    "posted_at": "2026-07-09",
+    "description": "Senior systems administrator with 7+ years of experience managing Linux fleets, Kubernetes, and networking. Bachelor's degree in Computer Science required. Lead incident response and mentor junior staff."
+  },
+  {
+    "id": "sample-5",
+    "title": "Remote Technical Support Specialist - Entry Level",
+    "company": "NoGigiddy",
+    "url": "https://example.com/jobs/nogigiddy-support",
+    "location": "Remote (US)",
+    "salary": "$20 - $25 an hour",
+    "tags": ["technical support", "entry level", "no degree"],
+    "posted_at": "2026-07-13",
+    "description": "Entry-level technical support, no degree required. Provide friendly help to users, document tickets, escalate when needed. Willingness to learn matters most. Paid training provided."
+  },
+  {
+    "id": "sample-6",
+    "title": "Data Entry Clerk (Remote, Part-Time)",
+    "company": "LedgerWorks",
+    "url": "https://example.com/jobs/ledgerworks-dataentry",
+    "location": "Remote (US)",
+    "salary": "$17 - $19 an hour",
+    "tags": ["data entry", "part-time", "remote"],
+    "posted_at": "2026-07-08",
+    "description": "Part-time remote data entry. Accurate typing, attention to detail, basic computer skills. No experience necessary, high school diploma preferred."
+  },
+  {
+    "id": "sample-7",
+    "title": "Lead DevOps Engineer",
+    "company": "CloudScale",
+    "url": "https://example.com/jobs/cloudscale-devops",
+    "location": "Remote (US)",
+    "salary": "$150,000 - $190,000 a year",
+    "tags": ["devops", "aws", "terraform", "lead"],
+    "posted_at": "2026-07-07",
+    "description": "Lead DevOps engineer, 10+ years experience, expert in AWS, Terraform, CI/CD. Master's degree preferred. Architect our cloud platform."
+  },
+  {
+    "id": "sample-8",
+    "title": "Junior Web Developer (HTML/CSS) - Remote",
+    "company": "PixelBloom Agency",
+    "url": "https://example.com/jobs/pixelbloom-webdev",
+    "location": "Remote (US)",
+    "salary": "$22 - $28 an hour",
+    "tags": ["html", "css", "junior", "web"],
+    "posted_at": "2026-07-12",
+    "description": "Junior web developer to build simple marketing pages. Beginner HTML and CSS is fine; we will mentor you. No degree required. Great first tech role for someone learning to code."
+  },
+  {
+    "id": "sample-9",
+    "title": "Remote IT Help Desk Associate",
+    "company": "Summit Health IT",
+    "url": "https://example.com/jobs/summit-helpdesk",
+    "location": "Remote (US)",
+    "salary": "$21 - $27 an hour",
+    "tags": ["it", "help desk", "associate", "healthcare"],
+    "posted_at": "2026-07-14",
+    "description": "Help desk associate supporting clinic staff. 1 year of help desk experience preferred but not required for the right candidate. CompTIA A+ a plus. Reset accounts, triage tickets, escalate to tier 2. High school diploma."
+  },
+  {
+    "id": "sample-10",
+    "title": "Principal Security Architect",
+    "company": "IronGate",
+    "url": "https://example.com/jobs/irongate-security",
+    "location": "Remote (US)",
+    "salary": "$180,000 - $220,000 a year",
+    "tags": ["security", "principal", "architect"],
+    "posted_at": "2026-07-06",
+    "description": "Principal security architect, 12+ years, CISSP required, bachelor's degree required. Own enterprise security strategy."
+  }
+]
