@@ -1,47 +1,150 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <title>
-    My Resume
-  </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chinedu Ezeofor — IT Support Specialist</title>
+  <style>
+    :root { --ink: #1a1a1a; --muted: #555; --accent: #1a5fb4; --line: #e2e2e2; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color: var(--ink); line-height: 1.55; max-width: 820px;
+      margin: 0 auto; padding: 2.5rem 1.25rem 4rem;
+    }
+    header h1 { margin: 0 0 .2rem; font-size: 2rem; }
+    header .title { color: var(--accent); font-weight: 600; font-size: 1.1rem; }
+    header .meta { color: var(--muted); font-size: .95rem; margin-top: .35rem; }
+    header .meta a { color: var(--accent); text-decoration: none; }
+    h2 {
+      font-size: 1.05rem; text-transform: uppercase; letter-spacing: .06em;
+      color: var(--accent); border-bottom: 2px solid var(--line);
+      padding-bottom: .3rem; margin: 2rem 0 .9rem;
+    }
+    .job { margin-bottom: 1.3rem; }
+    .job-head { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .25rem; }
+    .job-head .role { font-weight: 600; }
+    .job-head .dates { color: var(--muted); font-size: .9rem; }
+    ul { margin: .4rem 0 0; padding-left: 1.2rem; }
+    li { margin: .2rem 0; }
+    .skills { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; list-style: none; }
+    .skills li {
+      background: #f2f6fc; border: 1px solid #d6e2f5; color: #14396e;
+      border-radius: 999px; padding: .25rem .7rem; font-size: .88rem;
+    }
+    nav { margin-top: 2rem; }
+    nav a { color: var(--accent); text-decoration: none; margin-right: 1rem; font-weight: 600; }
+    footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--line);
+             color: var(--muted); font-size: .85rem; }
+  </style>
 </head>
 
 <body>
-  <h1>This Is My Resume</h1>
+  <header>
+    <h1>Chinedu Ezeofor</h1>
+    <div class="title">IT Support Specialist</div>
+    <div class="meta">
+      Jamaica, New York &middot;
+      <a href="mailto:chin@chineduezeofor.com">chin@chineduezeofor.com</a>
+    </div>
+  </header>
 
-  <h2>Summary</h2>
+  <section>
+    <h2>About</h2>
+    <p>
+      IT Support Specialist with hands-on experience administering Google Workspace and
+      troubleshooting hardware, software, and networking issues. I am skilled at resolving
+      technical problems and have a strong understanding of technical systems. I completed the
+      Google IT Support Professional Certificate and am working toward my CompTIA A+, Network+,
+      and Security+ certifications. Outside of work I enjoy gaming, entrepreneurship, technology,
+      and helping others solve problems.
+    </p>
+  </section>
 
-  <p>This is the summary for my resume that I will share with you all online. The culmination of my coding jourey</p>
+  <section>
+    <h2>Experience</h2>
 
-  <h3>Education</h3>
+    <div class="job">
+      <div class="job-head">
+        <span class="role">Google Workspace Admin — Digital Discovery Network</span>
+        <span class="dates">June 2022 – Present</span>
+      </div>
+      <ul>
+        <li>Manage and maintain the company's Google Workspace platform, keeping it secure and stable.</li>
+        <li>Authenticate domains and configure DNS records (CNAME, A, TXT, name servers) for reliable email delivery.</li>
+        <li>Implement SPF and DKIM policies to prevent bounced email and secure communications.</li>
+        <li>Manage users and organizational units, configuring permissions and access to resources.</li>
+        <li>Configure Gmail, Drive, Docs, and Sheets; administer data retention, backup, and access controls.</li>
+        <li>Troubleshoot and resolve Workspace issues, and train users on effective, secure practices.</li>
+      </ul>
+    </div>
 
-  <ul>
-    <li>No degree earned. I only possess my Highschool Diploma.</li>
-    <li>I've attended college but never finished</li> 
-  </ul>
+    <div class="job">
+      <div class="job-head">
+        <span class="role">IT Support Specialist — Google (via Google&nbsp;&times;&nbsp;Multiverse Apprenticeship)</span>
+        <span class="dates">August 2021 – January 2023</span>
+      </div>
+      <ul>
+        <li>Provided technical support to internal users of Google's products and services.</li>
+        <li>Troubleshot hardware and software issues and helped users with productivity tools.</li>
+        <li>Configured and maintained computer systems and networks.</li>
+      </ul>
+    </div>
 
-  <h3>Work Experience</h3>
+    <div class="job">
+      <div class="job-head">
+        <span class="role">Clerical Support — New York City Law Department, Brooklyn</span>
+        <span class="dates">July 2017 – August 2021</span>
+      </div>
+      <ul>
+        <li>Provided administrative support to legal staff in a professional office environment.</li>
+        <li>Interacted with clients and the public to provide information and assistance.</li>
+        <li>Handled general office tasks with strong communication and organizational skills.</li>
+      </ul>
+    </div>
+  </section>
 
-  <ul>
-    <li><b>McDonald's</b> - I was initially hired as a crew member but as time went on, I became a team trainer. This meant I handled training new crew members in the kitchen on procedures</li>
-  </ul>
+  <section>
+    <h2>Education &amp; Certifications</h2>
+    <div class="job">
+      <div class="job-head">
+        <span class="role">Google IT Support Professional Certificate — Google&nbsp;&times;&nbsp;Multiverse Apprenticeship</span>
+        <span class="dates">2021 – 2023</span>
+      </div>
+      <ul>
+        <li>Completed an IT support apprenticeship covering computer hardware, networking, and customer service.</li>
+        <li>Currently working toward CompTIA A+, Network+, and Security+ certifications.</li>
+      </ul>
+    </div>
+  </section>
 
-  <h3>Skills</h3>
+  <section>
+    <h2>Skills</h2>
+    <ul class="skills">
+      <li>IT &amp; Technical Support</li>
+      <li>Troubleshooting</li>
+      <li>Google Workspace Administration</li>
+      <li>DNS (CNAME, A, TXT)</li>
+      <li>SPF &amp; DKIM / Email Security</li>
+      <li>User &amp; OU Management</li>
+      <li>Networking</li>
+      <li>Hardware &amp; Software</li>
+      <li>Data Management</li>
+      <li>Security &amp; Compliance</li>
+      <li>User Training</li>
+      <li>Customer Service</li>
+    </ul>
+  </section>
 
-  <ul>
-    <li>HTML 5 - Beginner</li>
-    <li>CSS - Not Yet Started</li>
-    <li>Javascript - Not Yet</li>
-  </ul>
+  <nav>
+    <a href="./hobbies.html">Hobbies</a>
+    <a href="./contact.html">Contact</a>
+  </nav>
 
-  <h3>Awards</h3>
-  
-  <p>No award received.</p>
-
-  <a href="./hobbies.html">Hobbies</a> <a href="./contact.html">Contact</a>
-
+  <footer>
+    <p>Chinedu Ezeofor &middot; IT Support Specialist &middot; &copy; 2026</p>
+  </footer>
 </body>
 
-<footer>
-  <p>Chinedu Ezeofor | Interactive Xperience Agency| Copyright 2024</p>
-</footer>
+</html>
