@@ -108,5 +108,38 @@
     "tags": ["security", "principal", "architect"],
     "posted_at": "2026-07-06",
     "description": "Principal security architect, 12+ years, CISSP required, bachelor's degree required. Own enterprise security strategy."
+  },
+  {
+    "id": "sample-11",
+    "title": "Remote Service Desk Analyst II",
+    "company": "Meridian IT Services",
+    "url": "https://example.com/jobs/meridian-sda2",
+    "location": "Remote (US)",
+    "salary": "$28 - $34 an hour",
+    "tags": ["service desk", "tier 2", "citrix", "itsm", "active directory"],
+    "posted_at": "2026-07-15",
+    "description": "Level II Service Desk Analyst providing remote support to enterprise users. Support Citrix/VDI, Active Directory, Microsoft Office, and an ITSM ticketing system. Prioritize and escalate tickets, troubleshoot hardware and software. 2+ years of service desk experience preferred; no degree required. Google IT Support or CompTIA A+ a plus."
+  },
+  {
+    "id": "sample-12",
+    "title": "Remote IT Support Specialist (Level 2)",
+    "company": "Northwind Managed Services",
+    "url": "https://example.com/jobs/northwind-l2",
+    "location": "Remote (US)",
+    "salary": "$27 - $33 an hour",
+    "tags": ["it support", "level 2", "active directory", "remote desktop"],
+    "posted_at": "2026-07-16",
+    "description": "Level 2 IT Support Specialist for a remote-first MSP. Troubleshoot Windows and macOS, Active Directory account management, VPN, and networking issues. Handle escalations from tier 1 and document resolutions. 2-4 years IT support experience; certifications welcome but not required."
+  },
+  {
+    "id": "sample-13",
+    "title": "Remote Help Desk Analyst — Legal / iManage",
+    "company": "Barrister Technology Group",
+    "url": "https://example.com/jobs/barrister-helpdesk",
+    "location": "Remote (US)",
+    "salary": "$26 - $31 an hour",
+    "tags": ["help desk", "imanage", "citrix", "law firm", "service desk"],
+    "posted_at": "2026-07-17",
+    "description": "Help desk analyst supporting attorneys and staff at a large law firm. Support iManage, Citrix/VDI, Microsoft Office, and document management systems. Strong customer service and ticket documentation. Prior legal-industry help desk experience a strong plus; no degree required."
   }
 ]
