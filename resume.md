@@ -68,7 +68,9 @@ Microsoft 365 · Epic · MyChart · Healthstream · Duo
   and escalation
 - **Healthcare systems:** Epic, MyChart, Healthstream
 - **Platforms:** Windows, macOS, iOS, Android
-- **Networking:** TCP/IP, DNS, DHCP, VPN, LAN/Wi-Fi, ping / ipconfig / nslookup / tracert
+- **Networking & DNS:** TCP/IP, DNS record management (MX, SPF, DKIM, CNAME, A, TXT), DHCP, VPN,
+  LAN/Wi-Fi, ping / ipconfig / nslookup / tracert
+- **Hosting:** Vercel, self-hosted services (Stalwart mail server), domain configuration
 - **Automation & AI:** Make.com, n8n, OpenAI API, no-code databases, prompt writing
 
 ## Certifications
@@ -78,6 +80,10 @@ Microsoft 365 · Epic · MyChart · Healthstream · Duo
 
 ## Projects
 
+- Standing up a self-hosted Stalwart mail server — running now, still working through full
+  configuration.
+- Manage DNS for my own domain: MX, SPF and DKIM records for mail delivery and authentication.
+- Deployed the agency site on Vercel, including domain and DNS setup.
 - Built and maintain a custom desktop PC: parts selection, assembly, OS install, hardware
   troubleshooting.
 - Run and troubleshoot my own home network.
