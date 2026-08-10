@@ -77,6 +77,7 @@ EXPERIENCE = [
         "bullets": [
             "Run a small digital agency for NYC small businesses: local SEO, lead generation, "
             "reputation management.",
+            "Administer the agency's Google Workspace: users, domain and business email setup.",
             "Built a Make.com workflow that takes Facebook group join requests, verifies the email "
             "address, and passes everyone who clears into a clean marketing list.",
             "Connected the OpenAI API to a spreadsheet so copy can be generated and questions asked "
@@ -96,8 +97,8 @@ EXPERIENCE = [
 ]
 
 SKILLS = [
-    ("Identity & access", "Active Directory (Windows Server AD DS), Microsoft 365, Duo MFA, "
-                          "account provisioning, group and shared mailbox access"),
+    ("Identity & access", "Active Directory (Windows Server AD DS), Microsoft 365, Google Workspace "
+                          "administration, Duo MFA, account provisioning, group and shared mailbox access"),
     ("Service desk", "FreshService (ITSM), Zoho Assist, Citrix Workspace, remote desktop, "
                      "ticket triage and escalation"),
     ("Healthcare systems", "Epic, MyChart, Healthstream"),
