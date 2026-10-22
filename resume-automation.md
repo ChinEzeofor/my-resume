@@ -9,10 +9,11 @@ New York, NY · chinedu@interactxp.com · linkedin.com/in/c-ezeofor90
 ## Summary
 
 I build automations and wire AI into the tools people already use — Make.com and n8n workflows, the
-OpenAI API connected to spreadsheets, no-code databases behind them. I also run the infrastructure
-underneath: DNS and email authentication for my own domain, a site on Vercel, and a self-hosted mail
-server I'm currently configuring. My day job is IT support for a healthcare client, which is where I
-learned to work inside someone else's constraints and document what I hand off.
+OpenAI API connected to spreadsheets, no-code databases behind them. I run the infrastructure
+underneath too: DNS and email authentication (MX, SPF, DKIM) for my own domain, a site on Vercel,
+and a self-hosted Stalwart mail server. My day job is enterprise IT support for a healthcare
+client — Active Directory provisioning, Microsoft 365, and ticket ownership in FreshService — so I
+work in documented process on systems a thousand people depend on.
 
 ## Automation & Integration Work
 
